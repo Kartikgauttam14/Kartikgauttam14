@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KARTIK GAUTTAM</h1>
-<h3 align="center">A passionate frontend & backend developer from India</h3>
+<h3 align="center">A passionate frontend & backend developer from India in Serverstep</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikgauttam14&label=Profile%20views&color=0e75b6&style=flat" alt="kartikgauttam14" /> </p>
 
