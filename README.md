@@ -39,7 +39,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikgauttam14&show_icons=true&locale=en" alt="kartikgauttam14" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikgauttam14&" alt="kartikgauttam14" /></p>
-## Hi there 👋
+
 
 <!--
 **Kartikgauttam14/Kartikgauttam14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
