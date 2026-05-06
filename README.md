@@ -21,7 +21,7 @@
 
 <hr />
 
-### 📜 The Marauder's Map (Current Quests)
+### 📜 The Marauder's Map (Active Quests)
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikgauttam14&theme=react-dark&area=true&hide_border=true" width="100%" />
@@ -55,11 +55,14 @@
 
 <hr />
 
-### 📊 Wizarding Records (GitHub Stats)
+### 🐍 Magical Activity (Snake Game)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartikgauttam14&show_icons=true&theme=blood&hide_border=true&count_private=true" alt="Kartik's Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikgauttam14&show_icons=true&locale=en&layout=compact&theme=blood&hide_border=true" alt="Top Langs" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kartikgauttam14&show_icons=true&theme=blood&hide_border=true&count_private=true" alt="Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikgauttam14&show_icons=true&locale=en&layout=compact&theme=blood&hide_border=true" alt="Langs" height="180px" />
 </p>
 
 <hr />
