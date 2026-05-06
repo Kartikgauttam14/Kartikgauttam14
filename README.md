@@ -27,8 +27,8 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikgauttam14&theme=react-dark&area=true&hide_border=true" width="100%" />
 </p>
 
-- 🏰 **Current Station:** Working on [Domain and Website Development](https://serverstep.in/)
-- 📖 **Study Hall:** Learning **Python backend** and **Reactjs**
+- 🏰 **Current Station:** Working on [Website Development & Android App Development](https://techzolo.in/)
+- 📖 **Study Hall:** Learning **Python / Express js backend** and **Reactjs / React Native**
 - 👯 **Magical Alliance:** Looking to collaborate on [AI Development](https://github.com/Kartikgauttam14/fake_news_detection/tree/master/News%20Detection)
 - 💬 **Ask me about:** Python, Reactjs, C, C++, HTML, CSS, JavaScript
 - 📫 **Owl Post:** Reach me at **Kartikgauttam6@gmail.com**
