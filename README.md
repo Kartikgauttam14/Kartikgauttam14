@@ -60,11 +60,6 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartikgauttam14&show_icons=true&theme=blood&hide_border=true&count_private=true" alt="Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikgauttam14&show_icons=true&locale=en&layout=compact&theme=blood&hide_border=true" alt="Langs" height="180px" />
-</p>
-
 <hr />
 
 ### 🌐 Social Connect
@@ -83,6 +78,6 @@
 </p>
 
 <p align="center">
-  <em>Mischief Managed.</em><br>
+  <em>Ksrtik Gauttam.</em><br>
   <img src="https://raw.githubusercontent.com/Mayur57/Mayur57/master/assets/marauders-map.gif" width="150" />
 </p>
