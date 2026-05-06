@@ -30,7 +30,7 @@
 - 🏰 **Current Station:** Working on [Website Development & Android App Development](https://techzolo.in/)
 - 📖 **Study Hall:** Learning **Python / Express js backend** and **Reactjs / React Native**
 - 👯 **Magical Alliance:** Looking to collaborate on [AI Development](https://github.com/Kartikgauttam14/fake_news_detection/tree/master/News%20Detection)
-- 💬 **Ask me about:** Python, Reactjs, C, C++, HTML, CSS, JavaScript
+- 💬 **Ask me about:** Python, Reactjs
 - 📫 **Owl Post:** Reach me at **Kartikgauttam6@gmail.com**
 
 <hr />
