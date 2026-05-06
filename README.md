@@ -78,6 +78,6 @@
 </p>
 
 <p align="center">
-  <em>Ksrtik Gauttam.</em><br>
+  <em>Kartik Gauttam.</em><br>
   <img src="https://raw.githubusercontent.com/Mayur57/Mayur57/master/assets/marauders-map.gif" width="150" />
 </p>
